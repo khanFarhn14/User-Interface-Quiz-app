@@ -1,16 +1,26 @@
-# user_interface_quiz_app
+# User Interface Quiz App
+![Presentation](https://user-images.githubusercontent.com/98305427/220678220-40ea7941-4083-4038-a548-d442c9445feb.png)
 
-A new Flutter project.
+My main goal in creating this app was to improve my understanding of the Flutter framework.
+In the end, I chose the topic of quiz apps on user interfaces as my topic
 
-## Getting Started
+This app is designed to help you test your knowledge of user interface design.
+The app includes questions on topics such as UI layout, user experience, and more.
 
-This project is a starting point for a Flutter application.
+I hope you enjoy using this app and find it useful in your learning journey (✿◡‿◡).
 
-A few resources to get you started if this is your first Flutter project:
+## Lessons Learned
+- What are the steps involved in working with rows and columns
+- What are the best ways to make an app responsive on all mobile devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Color Reference
+Used 60, 30, 10 Rule
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color_60 | ![#CBCBCB](https://via.placeholder.com/10/CBCBCB?text=+) #CBCBCB |
+| Secondary Color_30 | ![#161616](https://via.placeholder.com/10/161616?text=+) #161616 |
+| Neutral Color_10 | ![#3E3E3E](https://via.placeholder.com/10/3E3E3E?text=+) #3E3E3E |
+
+## Demo
+https://user-images.githubusercontent.com/98305427/220680499-6ff5f415-7d2b-437e-8c3c-627b1fa539a8.mp4
