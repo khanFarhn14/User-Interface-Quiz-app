@@ -174,7 +174,7 @@ class CardNtApprhnsbleExplain extends StatelessWidget
                       child: Text
                       (
                         "The name of the product\nfollowed by the price\nDisplaying the price\nbefore explaining the why\nand what of the product",
-                        style: Functions().ApprehensibleExplain(),
+                        style: Functions().apprehensibleExplain(),
                       ),
                     ),
                   ],

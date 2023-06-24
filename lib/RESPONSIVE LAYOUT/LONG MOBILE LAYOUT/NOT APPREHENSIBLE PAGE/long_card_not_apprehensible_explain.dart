@@ -104,7 +104,7 @@ class _LongCardNtApprhnsbleExplainState extends State<LongCardNtApprhnsbleExplai
 
 
         // B O T T O M  D E S C R I P T I O N
-        Positioned
+        const Positioned
         (
           bottom: 0,
 
@@ -185,7 +185,7 @@ class _LongCardNtApprhnsbleExplainState extends State<LongCardNtApprhnsbleExplai
                       child: Text
                       (
                         "The name of the product\nfollowed by the price\nDisplaying the price\nbefore explaining the why\nand what of the product",
-                        style: Functions().ApprehensibleExplain(),
+                        style: Functions().apprehensibleExplain(),
                       ),
                     ),
                   ],

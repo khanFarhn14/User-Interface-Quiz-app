@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:smooth_corner/smooth_corner.dart';
 import '../../../../functions.dart';
-import 'long_card_apprehensible_explain.dart';
 
 double height = 140.h;
 

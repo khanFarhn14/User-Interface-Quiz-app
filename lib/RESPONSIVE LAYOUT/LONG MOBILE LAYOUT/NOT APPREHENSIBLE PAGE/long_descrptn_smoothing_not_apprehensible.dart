@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:smooth_corner/smooth_corner.dart';
 import '../../../../functions.dart';
-import 'long_card_not_apprehensible_explain.dart';
 double height = 105.h;
 
 
@@ -10,7 +9,7 @@ double height = 105.h;
 class LongDescrptnCardNtApprnhsble extends StatefulWidget 
 {
 
-  LongDescrptnCardNtApprnhsble({Key? key}) : super(key: key);
+  const LongDescrptnCardNtApprnhsble({Key? key}) : super(key: key);
 
   @override
   State<LongDescrptnCardNtApprnhsble> createState() => _LongDescrptnCardNtApprnhsbleState();

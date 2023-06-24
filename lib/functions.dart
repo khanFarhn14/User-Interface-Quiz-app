@@ -59,7 +59,7 @@ class Functions
   }
 
   // A P P R E H E N S I B L E
-  TextStyle Apprehensible()
+  TextStyle apprehensible()
   {
     return TextStyle
     (
@@ -70,7 +70,7 @@ class Functions
   }
 
   // A P P R E H E N S I B L E  E X P L A I N 
-  TextStyle ApprehensibleExplain()
+  TextStyle apprehensibleExplain()
   {
     return TextStyle
     (
@@ -160,7 +160,7 @@ Text apprehensible()
   return Text
   (
     "Apprehensible",
-    style: Functions().Apprehensible(),
+    style: Functions().apprehensible(),
   );
 }
 

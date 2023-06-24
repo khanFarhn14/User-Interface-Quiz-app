@@ -95,7 +95,7 @@ class CardApprhnsbleExplain extends StatelessWidget
 
 
         // B O T T O M  D E S C R I P T I O N
-        Positioned
+        const Positioned
         (
           bottom: 0,
 
@@ -103,7 +103,7 @@ class CardApprhnsbleExplain extends StatelessWidget
           (
             // alignment: Alignment.centerLeft,
             clipBehavior: Clip.none,
-            children: const 
+            children:
             [
               DescrptnCardApprnhsble(),
 
@@ -182,7 +182,7 @@ class ExplanationPart extends StatelessWidget {
                   child: Text
                   (
                     "Name of the product \nAfter reading this, user \nwill have many questions.",
-                    style: Functions().ApprehensibleExplain(),
+                    style: Functions().apprehensibleExplain(),
                   ),
                 ),
               ],
@@ -251,7 +251,7 @@ class ExplanationPart extends StatelessWidget {
                   child: Text
                   (
                     "User\nunderstanding the\nWhat &\nWhy of the Product",
-                    style: Functions().ApprehensibleExplain(),
+                    style: Functions().apprehensibleExplain(),
                   ),
                 ),
               ],
@@ -323,7 +323,7 @@ class ExplanationPart extends StatelessWidget {
                         child: Text
                         (
                           "In the end, the price\ncomes into play. User\ncan take an informed\ndecision when he\\she\nknows the what and why\nof the product.",
-                          style: Functions().ApprehensibleExplain(),
+                          style: Functions().apprehensibleExplain(),
                         ),
                       ),
                     )

@@ -56,7 +56,7 @@ class _ReadabilityImproperXplnState extends State<ReadabilityImproperXpln> {
               {
                 Navigator.push(context, MaterialPageRoute(builder: (context) => const SonyHomePage()));
               },
-              child: NextButtn()
+              child: const NextButtn()
             ),
           ],
         )

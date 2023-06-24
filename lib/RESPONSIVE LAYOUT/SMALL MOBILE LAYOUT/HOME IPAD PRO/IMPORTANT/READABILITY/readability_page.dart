@@ -51,7 +51,7 @@ class ReadabilityPage extends StatelessWidget {
               {
                 Navigator.push(context, MaterialPageRoute(builder: (context) => const SonyHomePage()));
               },
-              child: NextButtn()
+              child: const NextButtn()
             ),
           ],
         ),
