@@ -9,7 +9,12 @@ The app includes questions on topics such as UI layout, user experience, and mor
 
 I hope you enjoy using this app and find it useful in your learning journey (✿◡‿◡).
 
-## Lessons Learned
+## Features
+- Responsive UI
+- Cross platform
+- Interactive UI
+
+## Lessons Learned(づ￣ 3￣)づ
 - What are the steps involved in working with rows and columns
 - What are the best ways to make an app responsive on all mobile devices
 
