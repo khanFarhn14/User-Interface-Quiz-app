@@ -1,4 +1,4 @@
-# User Interface Quiz App
+# Interface Genius
 ![Presentation](https://user-images.githubusercontent.com/98305427/220678220-40ea7941-4083-4038-a548-d442c9445feb.png)
 
 My main goal in creating this app was to improve my understanding of the Flutter framework.
